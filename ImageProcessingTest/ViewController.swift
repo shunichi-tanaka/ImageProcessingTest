@@ -80,9 +80,7 @@ class ViewController: UIViewController {
     }
     
     func drawtext(_ text:String){
-        
         let font = UIFont.boldSystemFont(ofSize: 20)
-        
         // テキストの描画領域
         let textRect  = CGRect(x:100, y:40, width:250, height:120)
         
@@ -96,7 +94,6 @@ class ViewController: UIViewController {
         
         // テキストをdrawInRectメソッドでレンダリング
         text.draw(in: textRect, withAttributes: textFontAttributes)
-        
     }
     
     func test(){

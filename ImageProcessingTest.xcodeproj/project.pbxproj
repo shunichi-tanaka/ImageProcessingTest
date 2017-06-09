@@ -19,7 +19,7 @@
 		CF55F2831EC83EF90062028B /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF55F2821EC83EF90062028B /* Extensions.swift */; };
 		CF55F2851EC85C780062028B /* handbag.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF55F2841EC85C780062028B /* handbag.jpg */; };
 		CF55F2871EC85D3B0062028B /* emmy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF55F2861EC85D3B0062028B /* emmy.jpg */; };
-		CF6388671EE843AE00FCBFAA /* util.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF6388661EE843AE00FCBFAA /* util.swift */; };
+		CF6388671EE843AE00FCBFAA /* Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF6388661EE843AE00FCBFAA /* Const.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,7 +58,7 @@
 		CF55F2821EC83EF90062028B /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		CF55F2841EC85C780062028B /* handbag.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = handbag.jpg; path = ../../../../data/handbag.jpg; sourceTree = "<group>"; };
 		CF55F2861EC85D3B0062028B /* emmy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = emmy.jpg; path = ../../../../data/emmy.jpg; sourceTree = "<group>"; };
-		CF6388661EE843AE00FCBFAA /* util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = util.swift; sourceTree = "<group>"; };
+		CF6388661EE843AE00FCBFAA /* Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Const.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,7 +116,7 @@
 				CF55F2801EC83E260062028B /* mask.jpg */,
 				CF55F24E1EC829980062028B /* AppDelegate.swift */,
 				CF55F2501EC829980062028B /* ViewController.swift */,
-				CF6388661EE843AE00FCBFAA /* util.swift */,
+				CF6388661EE843AE00FCBFAA /* Const.swift */,
 				CF55F2521EC829980062028B /* Main.storyboard */,
 				CF55F2551EC829980062028B /* Assets.xcassets */,
 				CF55F2571EC829980062028B /* LaunchScreen.storyboard */,
@@ -293,7 +293,7 @@
 				CF55F2511EC829980062028B /* ViewController.swift in Sources */,
 				CF55F2831EC83EF90062028B /* Extensions.swift in Sources */,
 				CF55F24F1EC829980062028B /* AppDelegate.swift in Sources */,
-				CF6388671EE843AE00FCBFAA /* util.swift in Sources */,
+				CF6388671EE843AE00FCBFAA /* Const.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
