@@ -11,6 +11,6 @@ import Foundation
 
 struct Const{
     
-    
+    let TestText = "This is test text!"
     
 }
