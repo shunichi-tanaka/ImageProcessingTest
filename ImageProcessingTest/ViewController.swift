@@ -100,5 +100,10 @@ class ViewController: UIViewController {
         
     }
     
+    func drawRect(){
+        
+    }
+    
+    
 }
 
