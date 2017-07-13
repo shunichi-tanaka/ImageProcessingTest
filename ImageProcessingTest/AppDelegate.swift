@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  ImageProcessingTest
-//
-//  Created by 田中舜一 on 2017/05/14.
-//  Copyright © 2017年 田中舜一. All rights reserved.
-//
+
 
 import UIKit
 
